@@ -1,0 +1,3 @@
+C:/Users/pauloz/Desktop/programacion competitiva/contest3am/cmake-build-debug/CMakeFiles/contest3am.dir
+C:/Users/pauloz/Desktop/programacion competitiva/contest3am/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pauloz/Desktop/programacion competitiva/contest3am/cmake-build-debug/CMakeFiles/rebuild_cache.dir
